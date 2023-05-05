@@ -85,7 +85,7 @@
 </div>
 
   <script>
-    alert('loading')
+    //alert('loading')
     </script>
   
 </body>
